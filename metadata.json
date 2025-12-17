@@ -1,0 +1,5 @@
+{
+  "name": "Tusuka Bill Generator",
+  "description": "A billing PDF generator with employee database memory, autocomplete, and specific bill formatting.",
+  "requestFramePermissions": []
+}
