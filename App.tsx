@@ -321,8 +321,8 @@ const App: React.FC = () => {
                     <FileDown size={16} strokeWidth={3} />
                 </div>
                 <div>
-                    <h1 className="text-base font-black uppercase tracking-tight text-gray-800 leading-none">Tusuka Bill Gen</h1>
-                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Konabari, Gazipur</p>
+                    <h1 className="text-base font-black uppercase tracking-tight text-gray-800 leading-none">Daily Bill Gen</h1>
+                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Genarate Bill Easily</p>
                 </div>
             </div>
             
