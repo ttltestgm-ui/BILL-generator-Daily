@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
-import { Plus, Trash2, FileDown, Database, Save, RotateCcw, Moon, Coffee, Upload, Settings, X, Search, User, CreditCard, Briefcase, Calendar } from 'lucide-react';
+import { Plus, Trash2, FileDown, Database, Save, Moon, Coffee, Upload, Settings, Search, User, Briefcase, Calendar } from 'lucide-react';
 import { Employee, BillItem, BillType } from './types';
 import { generateBillPDF } from './services/pdfService';
 

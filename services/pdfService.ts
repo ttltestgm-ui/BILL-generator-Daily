@@ -131,9 +131,7 @@ export const generateBillPDF = async (
        halign: 'center',
        font: fontName
     },
-    didParseCell: (data) => {
-        // Custom parsing if needed
-    }
+    // Removed unused didParseCell
   });
 
   // @ts-ignore
